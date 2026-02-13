@@ -11,14 +11,11 @@ const gifStages = [
 
 const noMessages = [
     "Nein",
-    "Bist du dir sicher...? 🤔",
-    "Elare Valentina... 🥺",
-    "Wenn du nein sagst, dann bin ich traurig...",
-    "Ich werde sehr traurig seind...😢",
-    "Bitte??? 💔",
-    "Tue es mir nicht an...",
-    "Letzte Chance! 😭",
-    "Fang mich doch wenn du kannst 😜"
+    "Nein! Bist du dir sicher...? 🤔",
+    "Nein! Elare Valentina... 🥺",
+    "Nein! Tue es mir nicht an...",
+    "Nein! Letzte Chance! 😭",
+    "Ok Nein, wenn du mich kriegst😜"
 ]
 
 const yesTeasePokes = [
@@ -26,11 +23,7 @@ const yesTeasePokes = [
     "Klick weiter auf Nein... nicht aufgeben 👀",
     "hayde hayde weiter auf Nein 😈",
     "Klick auf nein, Vertrau mir 😏",
-    "hayde hayde weiter auf Nein 😈",
-    "hayde hayde weiter auf Nein 😈",
-    "hayde hayde weiter auf Nein 😈",
-    "hayde hayde weiter auf Nein 😈",
-    "hayde hayde weiter auf Nein 😈",
+    "hayde hayde weiter auf Nein 😈"
 ]
 
 let yesTeasedCount = 0
