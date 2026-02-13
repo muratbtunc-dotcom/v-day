@@ -110,6 +110,7 @@ function handleNoClick() {
     if (noClickCount >= 5 && !runawayEnabled) {
         enableRunaway()
         runawayEnabled = true
+        runAway()
     }
 }
 
