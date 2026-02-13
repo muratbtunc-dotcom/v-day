@@ -29,6 +29,8 @@ const yesTeasePokes = [
     "hayde hayde weiter auf Nein 😈",
     "hayde hayde weiter auf Nein 😈",
     "hayde hayde weiter auf Nein 😈",
+    "hayde hayde weiter auf Nein 😈",
+    "hayde hayde weiter auf Nein 😈",
 ]
 
 let yesTeasedCount = 0
