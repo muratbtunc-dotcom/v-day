@@ -10,7 +10,7 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "Nein",
+    "Nein!",
     "Nein! Bist du dir sicher...? 🤔",
     "Nein! Elare Valentina... 🥺",
     "Nein! Tue es mir nicht an...",
